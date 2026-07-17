@@ -100,10 +100,9 @@ Expected health response:
 ```
 
 ## Deployment
-
-- **Deployed URL:** _fill in after deploying, e.g. https://ticket-system-xxxx.onrender.com_
-- **Public health check URL:** _e.g. https://ticket-system-xxxx.onrender.com/health_
-- **GitHub repository:** _fill in your repo link_
+- **Deployed URL:** https://ticket-system-2u1l.onrender.com
+   - **Public health check URL:** https://ticket-system-2u1l.onrender.com/health
+   - **GitHub repository:** https://github.com/nipun8890/ticket-system
 
 This service is stateless and only needs one environment variable
 (`JWT_SECRET`), so it deploys as-is to any free-tier platform that builds
